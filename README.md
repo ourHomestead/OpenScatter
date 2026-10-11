@@ -1,7 +1,9 @@
 
-# OpenScatter is no longer in development
+# Open Scatter for the latest version of Blender!
 
-Due to ongoing personal health issues, I am unable to continue work on OpenScatter so unfortunately it is no longer in development, and will not receive any further updates. As always, anyone is welcome to fork the project and continue development on their own. Thank you for all the support!
+This is a version of open scatter that I made with my little to no knowledge of coding
+All I have done is made it compatible with the latest version of Blender, if any issues arise, I'll make sure to fix them!
+Feel free to edit to this addon yourself! All credit goes to GitMay3D for developing the original version of this addon.
 
 # Links
 - [Documentation](https://openscatter.notion.site/OpenScatter-Documentation-1af0def6628280868c48d20d0def802b)
